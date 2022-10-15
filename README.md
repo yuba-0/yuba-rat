@@ -1,4 +1,4 @@
-# yuba-rat-panel
+# yuba-rat-panel 2022 (15 ekim update)
 ![yubarat](https://user-images.githubusercontent.com/63671455/144673428-cf521c7a-4aa5-47f1-a66b-2e059a235459.jpg)
 
 Ana Özellikler 
